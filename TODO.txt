@@ -1,0 +1,4 @@
+TODO try out a different template specific for flask and vercel
+https://vercel.com/templates/next.js/nextjs-flask-starter
+
+TODO migrate this current template to a github pages repo
